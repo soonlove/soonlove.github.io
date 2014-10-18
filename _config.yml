@@ -5,7 +5,7 @@ pygments: true
 paginate: 8
 permalink: /:title
 
-title: Soinlove.org
+title: soonlove.github.com
 url: https://soonlove.github.com
 feed: /atom.xml
 author_info: <a href="https://soonlove.github.com">SoinLove/a>
