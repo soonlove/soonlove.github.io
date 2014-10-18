@@ -6,6 +6,6 @@ paginate: 8
 permalink: /:title
 
 title: Soinlove.org
-url: http://soinlove.org
+url: https://soonlove.github.com
 feed: /atom.xml
-author_info: <a href="http://soinlove.org/">SoinLove/a>
+author_info: <a href="https://soonlove.github.com">SoinLove/a>
